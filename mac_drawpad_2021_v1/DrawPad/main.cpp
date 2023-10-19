@@ -36,5 +36,6 @@ void DrawMain()
     DrawText("Hello, world!!", -12*14/2, -66, kColorGray);
 }
 
-aiueo
+#aiueo
 
+#yaa,bokudayo
