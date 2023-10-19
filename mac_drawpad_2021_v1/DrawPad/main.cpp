@@ -39,3 +39,5 @@ void DrawMain()
 #aiueo
 
 #yaa,bokudayo
+
+#hallo
