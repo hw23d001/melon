@@ -41,4 +41,6 @@ void DrawMain()
 
 #yaa,bokudayo
 
+
 #hallo
+
