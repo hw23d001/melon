@@ -14,6 +14,7 @@ void DrawMain()
 
     for (int x = -100; x <= 100; x+=10) {
         DrawCircle(x, 0, 150, kColorYellow);
+        DrawCircle(x, 100, 150, kColorBlue);
     }
 
     for (int x = -250; x < -50; x+=10) {
